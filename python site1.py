@@ -7,7 +7,7 @@ HTML_TEMPLATE = """
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>PARS FAMİLY HAKKINDA</title>
+    <title>HAYALET FAMİLY HAKKINDA</title>
     <style>
         body {{ font-family: Arial, sans-serif; background: #f4f4f4; padding: 20px; }}
         nav a {{ margin: 10px; text-decoration: none; color: #333; font-weight: bold; }}
@@ -26,29 +26,29 @@ HTML_TEMPLATE = """
 </body>
 </html>
 """
-<h1>PARS FAMILY</h1>
+<h1>HAYALET FAMILY</h1>
     <p>Gücümüz Birliğimizden Gelir</p>
   </header>
 
   <section>
     <h2>Hakkımızda</h2>
     <p>
-      Pars Family, sanal alemde ismini duyurmuş güçlü bir gruptur. Tag’ımızı taşıyan her birey bu ailenin bir parçasıdır.
+      Hayalet Family, sanal alemde ismini duyurmuş güçlü bir gruptur. Tag’ımızı taşıyan her birey bu ailenin bir parçasıdır.
     </p>
     <ul>
       <li><strong>Baş Kurucu:</strong> Kimsebaşgözedemezdir</li>
       <li><strong>Baş Leader:</strong> Leaxs Santo</li>
-      <li><strong>1. Leader:</strong> Kroyy Nen</li>
+      <li><strong>1. Leader:</strong> Versace</li>
     </ul>
   </section>
 
   <section>
     <h2>İletişim & Instagram Hesaplarımız</h2>
     <ul>
-      <li>📌 <a href="https://instagram.com/parsfamily.resmihesap" target="_blank">@parsfamily.resmihesap</a></li>
-      <li>👑 <a href="https://instagram.com/_pars.bas.krc.kimsebasgoz_" target="_blank">@_pars.bas.krc.kimsebasgoz_</a></li>
-      <li>🧠 <a href="https://instagram.com/pars.leaxs" target="_blank">@pars.leaxs</a></li>
-      <li>⚔️ <a href="https://instagram.com/pars.kroyy.nen" target="_blank">@pars.kroyy.nen</a></li>
+      <li>📌 <a href="https://instagram.com/hayaletfamily.resmihesap" target="_blank">@hayaletfamily.resmihesap</a></li>
+      <li>👑 <a href="https://instagram.com/_hayalet.bas.krc.kimsebasgoz_" target="_blank">@_hayalet.bas.krc.kimsebasgoz_</a></li>
+      <li>🧠 <a href="https://instagram.com/hayalet.leaxs" target="_blank">@hayalet.leaxs</a></li>
+      <li>⚔️ <a href="https://instagram.com/hayalet.versace" target="_blank">@hayalet.versace</a></li>
     </ul>
   </section>
 
